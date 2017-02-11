@@ -4,7 +4,7 @@ public class SomeProgram {
 	System.out.println("We will be Git experts, soon");
     }
 	
-	public static void StartRocket(){
-		//to do some code here!
-	}
+    public static void StartRocket(){
+        //to do some code here!
+    }
 }
